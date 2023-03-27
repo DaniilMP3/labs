@@ -1,0 +1,33 @@
+3|Good product, fast delivery|23-10-03
+2|Not as advertised|22-12-18
+5|Great quality and service|23-09-25
+1|Poor quality|21-12-17
+4|Happy with my purchase|23-06-19
+2|Disappointed in the product|21-08-27
+5|Amazing experience!|22-04-22
+3|Decent product, could be better|22-01-12
+4|Good value for the price|23-03-28
+1|Not worth it|21-11-02
+5|Highly recommended|23-05-01
+2|Very dissatisfied|22-07-14
+4|Satisfied with my order|21-02-20
+3|Mixed feelings|22-11-07
+5|Top-notch quality and service|23-08-08
+2|Not happy with the purchase|22-03-12
+4|Impressed with the product|21-05-19
+3|Room for improvement|23-01-02
+5|Excellent all around|22-10-11
+2|Poor customer support|21-06-26
+4|Good overall experience|23-02-13
+3|Just okay|22-08-03
+5|Fantastically designed product|21-09-14
+2|Product didn't work, poor quality|23-04-01
+4|Would recommend|22-12-06
+3|Needs improvement|21-07-23
+5|Great purchase!|23-06-17
+2|Not what I expected|22-02-18
+4|Very satisfied|21-01-07
+3|Average product|23-03-21
+5|Excellent value for money|22-09-09
+2|Product arrived damaged|21-11-27
+4|Good customer service|23-05-05
